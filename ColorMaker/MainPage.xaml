@@ -50,7 +50,8 @@
                             HeightRequest="25"
                             Source="dotnet_bot.png"
                             VerticalOptions="Center"
-                            WidthRequest="25"/>
+                            WidthRequest="25"
+                            Clicked="ImageButton_Clicked"/>
                     </HorizontalStackLayout>
                 </Frame>
                 <Button x:Name="btnRandom"
